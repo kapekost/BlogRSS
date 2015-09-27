@@ -1,5 +1,4 @@
 node_modules
-www
 .tmp
 .sass-cache
 <%= appPath %>/bower_components
@@ -11,3 +10,6 @@ plugins
 *.log
 *.DS_Store
 .idea/
+*.keystore
+*.keystore
+Code
